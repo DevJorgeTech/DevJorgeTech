@@ -10,4 +10,16 @@ Estágiario em TI (Service Desk) na Unicid (Universidade Cidade São Paulo)
 </div>
 
 <hr>
+
+- 🖥️ Começando os estudos em:
+
+
+<div style = "display: inline;">
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"  width = 100px hight = 100px/>  
+                   
+</div>
+
+            
+          
           
