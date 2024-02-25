@@ -1,5 +1,5 @@
 ### Oi, Meu nome é Jorge Wagner
-Estágiario em TI (Service Desk) na Unicid (Universidade Cidade São Paulo)
+Estágiario em TI (Service Desk) na Unicid (Universidade Cidade São Paulo), atualmente focado nos estudos em desenvolvimento BackEnd;
 
 - 🖥️ Conhecimentos em:
 
