@@ -17,7 +17,6 @@ Estágiario em TI (Service Desk) na Unicid (Universidade Cidade São Paulo), atu
 <div style = "display: inline;">
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"  width = 100px hight = 100px/>
-  <img src="https://github.com/devicons/devicon/tree/v2.16.0/icons/mysql/mysql-original-wordmark.svg"/>
 
                    
 </div>
