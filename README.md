@@ -14,12 +14,12 @@ Estágiario em TI (Service Desk) na Unicid (Universidade Cidade São Paulo), atu
 - 🖥️ Começando os estudos em:
 
 
-<div style = "display: inline;">
+<div style = "display: inline; ">
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"  width = 100px hight = 100px/>
-
-                   
-</div>
+  <img width="100" height="100" src="https://img.icons8.com/fluency/100/mysql-logo.png"/>           
+  <img class="imagem-nodejs" width="100" height="100" src="https://img.icons8.com/color/100/nodejs.png" alt="nodejs"/>
+ </div>
 
 
 
